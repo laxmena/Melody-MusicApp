@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Melody</string>
+    <string name="song_titles_placeholder">Song TitleSong TitleSong Title</string>
+    <string name="artist_name_placeholder">Artist</string>
+    <string name="song_cover_img_desc">Song Cover</string>
 </resources>
