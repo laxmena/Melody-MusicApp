@@ -2,7 +2,7 @@
 
 <img src="./images/banner.png" style="height:300px">
 
-## What is Meldoy?
+## What is Melody?
 Melody is a Android application created as a part of the course - CS478 Software Development for Mobile Platforms under Professor Dr.Ugo Buy. 
 
 Project Requirement can be found [here](./Project_Requirements.pdf).
