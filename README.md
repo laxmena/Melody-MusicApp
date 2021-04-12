@@ -59,3 +59,5 @@ git clone https://github.com/laxmena/Melody-MusicApp.git
 If you have any additional questions, feedbacks, suggestions or recommendations, feel free to contact me through [Email](mailto:WriteTo@laxmena.com) or [LinkedIn](https://www.linkedin.com/in/lakshmanan-meiyappan/).
 
 Visit my website here: [https://laxmena.com](http://laxmena.com/).
+
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=laxmena.AndroidApps.MelodyApp)](#)
